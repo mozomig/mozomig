@@ -17,7 +17,7 @@
 * 🚀 My core competencies: mobile app development using Flutter and Android native.
 * 💎 Additionally, I develop backend services in Dart and Rust.
 
-### 🔍 You can find me
+### 📭 You can find me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandr-beliakov-05594a124/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mozomig)

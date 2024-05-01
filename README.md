@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=500&color=269526&multiline=true&repeat=false&random=false&width=435&lines=%F0%9F%92%AC+I+use+these+technologies;%F0%9F%8C%8D+to+make+the+world+a+better+place." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1000&pause=300&color=269526&multiline=true&repeat=false&random=false&width=435&lines=%F0%9F%92%AC+I+use+these+technologies;%F0%9F%8C%8D+to+make+the+world+a+better+place." alt="Typing SVG" /></a>
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)

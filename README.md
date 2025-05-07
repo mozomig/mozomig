@@ -12,7 +12,7 @@
 
 ### 🙊 About me
 
-* 🧑‍💻 I'm a developer with over 8 years of experience.
+* 🧑‍💻 I'm a developer with over 9 years of experience.
 * 🚀 My core competencies: mobile app development using Flutter and Android native.
 * 💎 Additionally, I develop backend services with Go.
 
